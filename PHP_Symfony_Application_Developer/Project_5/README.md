@@ -43,7 +43,7 @@
 4. Open a command terminal at the root of the project and use the following commands:\
   4.1. **composer install** *(this command allows you to install the project's dependencies)\
   4.2. **composer dump-autoload** *(this command allows you to update your autoloader)*
-5. Launch your website. For this, there are several solutions:/\
+5. Launch your website. For this, there are several solutions:\
   5.1. Use a web server (MAMP, XAMPP...).\
   5.2. Launch a terminal from the root of the project and use the following command: **php -S localhost:8000 -t public**
 
